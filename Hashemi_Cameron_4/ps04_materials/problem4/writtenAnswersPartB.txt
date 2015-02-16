@@ -1,0 +1,20 @@
+Problem Set 4, Question 4, Part B
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The red and green lines represent the principal components of each dataset, or
+the eigenvectors of the covariance matrix for each dataset. These vectors, when
+used to perform a change of bases on the data, account for the most variance
+within the data, i.e. when we map the data with those two lines standing as
+axes, we have reduced the data into a simpler representation (less dimensions).
+
+The red line represents the first principal component that accounts for the
+most variance, i.e. having the highest eigenvalue amongst eigenvectors of the
+covariance matrix. The green line represents the second principal component that
+accounts for the most second variance possible, but it completely independent
+of the variance accounted for in the first component. This independence is
+known as orthagonality, and it is the result of the eigenvectors being derived
+from the symmetrical covariance matrix.

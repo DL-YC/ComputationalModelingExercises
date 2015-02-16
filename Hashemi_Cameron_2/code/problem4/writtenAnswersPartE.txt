@@ -1,0 +1,16 @@
+Problem Set 2, Problem 4
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part E
+------
+
+Under such values (t=1.0,a=.5,b=2.5), a squirrel is more similar to a rhino than
+a rhino is to a squirrel. This is because our high beta value highly emphasizes
+traits that B has and A doesn't. Since rhinos have more unique traits with respect to
+squirrels than squirrels have with respect to rhinos, a rhino is more different
+to a squirrel than a squirrel is to a rhino. This means that a squirrel is likely
+closer to the prototype than a rhino - it has more common features.

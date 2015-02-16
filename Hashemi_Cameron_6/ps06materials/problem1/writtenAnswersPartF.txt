@@ -1,0 +1,19 @@
+% ---------------------------------
+% Problem Set 6, Question 1 Part F
+% ---------------------------------
+%
+% Author: Cameron
+% Collaborators: 
+%
+% ---------------------------------
+
+What is the correlation?
+
+.9328
+
+Based on looking at your plots from parts D and E, are there any
+systematic differences between your participant's judgments and the
+model predictions?
+
+The plots look very similar, systematically. I'm impressed with the model's
+ability to match the ratings of a random person. It's beautiful!

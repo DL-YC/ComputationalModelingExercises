@@ -1,0 +1,17 @@
+Problem Set 6, Question 3, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The labeling of the object is not necessarily what I would expect, but I'm
+not surprised by its classification. The algorithm classified the puppy
+as a cat. Indeed, the point was an edge case. There are two other edge cases
+which are misclassified by the algorithm. I think that if one of these points
+were classified correctly, perhaps by choosing different starting points,
+the dog would have been classified correctly. These incorrect cases sway the
+centers in the wrong direction, in both directions. An incorrect case will
+pull the wrong center closer and the correct center further. Edge cases seem
+tricky with this form of clustering, but perhaps higher dimensions of observations
+would add information and make the distinction more clear.

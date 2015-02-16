@@ -1,0 +1,17 @@
+Problem Set 2, Problem 3
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part B
+------
+
+
+
+There seems to be a linear relationship between hypothesis sizes and number of trials
+needed to win the game.
+
+The mean and log of mean plots looked about the same, the log plot may have been
+a bit smoother.

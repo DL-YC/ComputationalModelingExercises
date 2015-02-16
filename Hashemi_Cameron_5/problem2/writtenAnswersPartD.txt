@@ -1,0 +1,21 @@
+Problem Set 5, Question 2, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+For k of 0 and 1, we see a high MSE because of high bias and some variance - the
+learned function is not as complex as the true function, leading to an underfitted
+of the data. The learned function doesn't account for enough of the input-output relationship.
+For k around 2 - 6, the MSE is the lowest. This is because we've found a balance
+between bias and variance - the learning algorithm is of similar complexity to the
+true function. Since the noise is normally distributed, it will have minimal effect
+on the MSE when the learned function is close to the true function. Not only do
+the functions on average get close to the actual values, the learned functions are close to
+each other. The added noise doesn't radically change our esitmated function.
+As k increases past 6 degrees, we see the result of overfitting the noise. Our
+polynomial learns the relationship between the input-output pairs in our training
+data very well, too well. Our test data comes from the same function as the training,
+but it has different noise for each input-output pair. Our learning algorithm was
+too complex, so it overlearned and will produce inaccurate outputs due to missing
+the true function due to noise.

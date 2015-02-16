@@ -1,0 +1,16 @@
+Problem Set 4, Question 3, Part E
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The network has not learned the anbn grammar. We would expect it to be correct
+in predicting all outputs except for switches from A to B, which are dictated
+by a hidden n. Once n is determined by the switch from A to B, there is a fixed
+number of B's that one who understands the language should be able to predict.
+However, as seen by the mseplot, there is a fairly regular spike in squared error.
+This regular spike comes once upon the switch from A to B and again from the
+switch from B to A - intervals of equal distance n. Playing around with the layers
+of the network doesn't seem to help with this problem either.Due to this discrepancy,
+we can say that neural networks such as Elman's cannot learn context-free grammars.

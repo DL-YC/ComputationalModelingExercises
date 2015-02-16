@@ -1,0 +1,14 @@
+Problem Set 2, Problem 2
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part D
+------
+
+The language learner will be able to win the game as long as there is not an infinitely
+long language amongst the set containing all of its subsets. It will always win, because
+the teacher will eventually show me all of the possible sentences in the language. When
+I take those observations as a unique set, I have the selected language in front of me.

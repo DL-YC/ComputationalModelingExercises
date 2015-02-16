@@ -1,0 +1,13 @@
+Problem Set 4, Question 3, Part F
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+The network has not learned the anbn grammar. Playing around with the layers
+of the network doesn't seem to help with this problem either. Due to this discrepancy,
+we can say that neural networks such as Elman's cannot learn context-free grammars.
+It seems unable to relate the streaks of As and Bs, most likely because of the overwhelming 
+evidence that As come after As and Bs come after Bs. Perhaps lowering the ceiling for N
+will result in less error on switches. However, this may lead to more error overall,
+due to the higher frequency of words.

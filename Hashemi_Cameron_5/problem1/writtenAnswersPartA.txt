@@ -1,0 +1,16 @@
+---------------------------------
+Problem Set 5, Question 1 Part A
+---------------------------------
+Author: Cameron Hashemi
+Collaborators: 
+---------------------------------
+
+Likelihoods:
+pd_h0 = .5;
+pd_h1 = .95;
+
+Posterior probability of h0:
+ph1_d = .4412;
+
+Posterior Probability of h1:
+ph2_d = .5588;

@@ -1,0 +1,18 @@
+% ---------------------------------
+% Problem Set 6, Question 2 Part A
+% ---------------------------------
+%
+% Author: Cameron Hashemi
+% Collaborators: 
+%
+% ---------------------------------
+
+Explain the effect of varying beta (i.e. what functions are favored by
+the prior with different values of beta?).
+
+As Beta decreases from 1 to .001, the function favors lower-polynomial functions.
+At 1, the function has sharp edges from -1 to 1, and at .001, the function seems like it's a straight line.
+But after looking at the theta values, I can see that at high Betas there is a much higher coefficient
+for higher polynomials, and at low Betas the higher coefficients are 0.
+It seems that as beta gets smaller, the probability that high-degree thetas is very small gets
+very very high. This is due to the nature of the exponential decay.

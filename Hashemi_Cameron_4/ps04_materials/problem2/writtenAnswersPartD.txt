@@ -1,0 +1,14 @@
+% file:  writtenAnswersPartD.txt
+%
+% Author:  Your Name
+% Collaborators:  Name 1, Name 2
+
+
+% Problem 2 (D)
+%
+% Was the multi-layer perceptron able to learn the XOR function? Explain why or why not. 
+% How does this compare to the behavior of the single-layer perceptron on the same input data?
+
+The multi-layer perceptron was able to learn the XOR function by prefacing the linear classification
+with a nonlinear classification. The first layer transforms the space so that the correct outputs
+can be distinguished from the incorrect ones.

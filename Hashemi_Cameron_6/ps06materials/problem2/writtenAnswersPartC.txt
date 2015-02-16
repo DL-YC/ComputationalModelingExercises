@@ -1,0 +1,19 @@
+% ---------------------------------
+% Problem Set 6, Question 2 Part C
+% ---------------------------------
+%
+% Author: Cameron Hashemi
+% Collaborators: 
+%
+% ---------------------------------
+
+Suggest how the results from the MSE on the test set could be
+explained in terms of the bias and variance of the learning algorithms
+that result from using different priors over functions.
+
+The variance is very high for low beta values - there are many ways that the
+learning algorithm can choose to fit the data. For this reason, there is a 
+very high MSE. As the beta value increases, we see the mean squared error decrease
+as there comes to be a balance between bias and variance. Then, further increasing
+the beta value, the estimated function becomes more simple and straightforward (biased).
+For this reason, underfitting the data occurs and we see the MSE increase.

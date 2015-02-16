@@ -1,0 +1,22 @@
+Problem Set 4, Question 4, Part C
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+Dataset A is plotted in two dimensions, though it only runs along one dimension.
+In the code, it's seen that PCA reduced A to only one dimension, and the representation
+of it on the plot looks exactly like it did in the original, so PCA worked by
+making the data less complex (3 dimensions down to 1).
+
+Dataset B is plotted in two dimensions, and the relationships between the points
+are exactly the same as they were in the original plot (source: eyes), so it seems
+that PCA worked for dataset B. One would not lose much information about the data
+as a whole by viewing it after PCA.
+
+Dataset C is plotted in two dimensions, but it seems that some information has been lost.
+The data looks as it does from a birds-eye view of the original, meaning the variation
+in the points along the "height" axis was virtually eliminated. Someone looking at the
+plot under PCA would lose an important aspect of the original data - the spiral-shape
+pattern.

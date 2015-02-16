@@ -1,0 +1,19 @@
+Problem Set 5, Question 3, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+I should take this coin to my father. Both the posterior mean estimate and
+maximum aposteriori estimate fall around 57%. This means that given the data,
+57% is the most likely hypothesis AND that given the hypothesis, the data is
+most likely to have shown up. The question is whether these two estimates are
+more reliable than the first mean likelihood estimate, and the answer is yes.
+The mean likelihood estimate doesn't take into account our prior knowledge about
+Azeroth coins - they are slightly more likely to flip heads than tails. This
+fact balances our actual data, which tells us that the coin is far more likely
+to flip heads than tails.
+
+Not only is the most likely estimate for theta 57%,
+but the mean of all estimates is 57%. This is strong evidence to give my
+father the coin.

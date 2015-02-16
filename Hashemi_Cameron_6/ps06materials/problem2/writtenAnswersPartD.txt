@@ -1,0 +1,18 @@
+% ---------------------------------
+% Problem Set 6, Question 2 Part D
+% ---------------------------------
+%
+% Author: Cameron Hashemi
+% Collaborators: 
+%
+% ---------------------------------
+
+Why were we sometimes able to get away with using a learning algorithm
+that can choose from such a large set of functions without suffering
+from overfitting?
+
+By tweaking our beta, alpha, and theta value, we are able to mediate how much variance within the
+higher-order terms there is (constraining the hypothesis space), while maintaining
+the bias of our lower-order terms. The bayesian estimation for prior probability
+allows us to add some bias to a 7th degree polynomial with lots of variance,
+giving us the best of both worlds.

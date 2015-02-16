@@ -1,0 +1,11 @@
+Problem Set 5, Question 4, Part B
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The probability that X=1 is higher given that Z=1, because we are given evidence
+that the sprinklers were on - i.e. that the grass is wet. Since P(X) is much
+higher than P(Y), it seems more probable that the grass would be wet due to the
+sprinklers than due to the rain.

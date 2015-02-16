@@ -1,0 +1,19 @@
+% ---------------------------------
+% Problem Set 6, Question 2 Part B
+% ---------------------------------
+%
+% Author: Cameron Hashemi
+% Collaborators: 
+%
+% ---------------------------------
+
+Explain the effect of varying beta (i.e. what functions are favored by
+the prior with different values of beta?).
+
+As beta decreases from 1, the MSE decreases drastically. This is because of
+overfitting the noise in high-degree polynomials (all are 7th degree polynomials,
+but most coefficients for high-degree polynomials are 0 for low beta values).
+The sweet spot seems to be around Beta == .3, and from there the MSE increaes
+a bit. The MSE for the training and test data follow the exact same trend,
+though the test data MSE is higher, which is expected.
+

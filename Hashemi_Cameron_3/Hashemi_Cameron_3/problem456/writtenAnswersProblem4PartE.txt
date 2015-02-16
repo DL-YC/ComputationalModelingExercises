@@ -1,0 +1,11 @@
+Problem Set 3, Question 4, Part E
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: Caitlyn Brady, Amit Grober
+
+
+Novel stimuli 1 is 50% likely to be in either category A or category B.
+Novel stimuli 2 is 50% likely to be in either category A or category B.
+
+The categorization is uninformative as to which stimulus is in category A or category B.

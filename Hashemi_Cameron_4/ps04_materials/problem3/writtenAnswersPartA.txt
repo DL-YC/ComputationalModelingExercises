@@ -1,0 +1,11 @@
+Problem Set 4, Question 3, Part A
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+traindata(2:end) is the appropriate output sequence for the input traindata(1:end-1)
+because they are offset by 1, meaning that at any input point, the output is the next
+element in the sequence. The goal of the network is to predict the next element,
+so the output should be the element.

@@ -1,0 +1,10 @@
+Problem Set 3, Question 4, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: Caitlyn Brady, Amit Grober
+
+Prototype 1 is 99.01 percent likely to be in category A.
+Prototype 2 is 00.99 percent likely to be in category B.
+
+The categorization was exactly inline with the true categories.

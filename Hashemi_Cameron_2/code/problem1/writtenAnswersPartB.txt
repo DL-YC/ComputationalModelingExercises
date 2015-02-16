@@ -1,0 +1,20 @@
+Problem Set 2, Problem 1
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part B
+------
+
+
+Gold's theorem defines learning a language to mean that one will have no errors
+in selecting that particular language as the one that's presented and no others.
+In order for one to have learned the language, there must be no errors in the selection
+process after a certain point. PAC doesn't hold this strict definition of learning to be
+indicative of learning. It assumes that one can say she has learned a language when
+the probability of error is less than a certain threshold. This is much more similar to how
+languages are learned in real life. I'm sure that among English speakers, even the most grammatical
+there are disputes as to what is grammatical or not, yet we all have learned English well enough,
+since the probability of error is lower than the amount needed to communicate.

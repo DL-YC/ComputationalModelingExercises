@@ -1,0 +1,14 @@
+Problem Set 4, Question 4, Part A
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+It seems that all three datasets are plotted in three dimensions; however,
+plot A only varies in 1 dimension and plot B only varies 2 dimensions.
+
+Plot C is tricky, because while it clearly varies in 3 dimensions, the data
+forms a distinct and clean spiral shape. The lack of variation from this shape 
+tells us that we can actually represent the data in 2 dimensions, but I don't
+think that it's safe to say that the data "actually varies" in 2 dimensions,
+even though it can be described in 2 dimensions.

@@ -1,0 +1,26 @@
+Problem Set 6, Question 4, Part A
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+SENTENCES FROM YOUR HMM MODEL:
+
+SENTENCE 1 = 'reddit'    'love'    'marbled'    'reddit'    'parks'
+
+SENTENCE 2 = 'exhausted'    'parks'    'love'    'big'    'exhausted'
+
+SENTENCE 3 = 'marbled'    'marbled'    'sally'    'parks'    'marbled'
+
+---------------------------------
+
+WRITTEN RESPONSE:
+
+The HMM is doing a pretty bad job of modeling the english language based
+on the subset we've given it. While I can see that it's getting close to
+what one might understand, the constaints we've given on the langauge are
+too much. There are too few words to choose from, giving skewed probability
+towards words which are of multiple parts of speech. Anytime the same word
+is used twice in a sentence, there is some confusion, and since we only
+have ten words (plus given a state there are even less words to choose from),
+there are a lot of sentences that are confusing.

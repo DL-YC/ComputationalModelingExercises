@@ -1,0 +1,19 @@
+Problem Set 2, Problem 2
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part E
+------
+
+Unfortunately, I will not always be able to win this game. Since the possible
+languages contains an infinite set of sentences amongst every subset of that infinite set,
+I can never know whether my current language (based on observations) is complete or not.
+That is: my current language can always satisfy the infinite set; but since it would take
+an infinite amount of time to know whether my set is the infinite set, there will never be a point
+that I can postulate that my language is the infinite set (the question is: can I ever know
+if anything is infinite? or do I just imagine that things are?).
+The possibility of an infinite language, in combination with an infinitude of languages, leaves me
+in the dark as to when I can know for certain what my language is. 

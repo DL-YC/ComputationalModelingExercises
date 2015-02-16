@@ -1,0 +1,26 @@
+% file:  writtenAnswersPartD.txt
+%
+% Author:  Cameron Hashemi
+% Collaborators:  Name 1, Name 2
+
+
+% Problem 1 (D)
+%
+% Interpret these results in terms of the noises the animal might make. How does the kind % of solution the neural network produces differ from the kind of thing we might expect from an account based on rules and symbols?
+
+Animal X2 seems to be more like a cat than a dog, because it growls and hisses but doesn't bark. It definitely doesn't neigh,
+which is to be reasoned from the inputs regarding dogs and cats.
+
+Animal X5 is ambiguous. While it definitely doesn't neigh, we don't know at all
+whether or not it hisses or barks, but we do know that it growls. This is to be
+expected from the input being 50% dog and 50% cat.
+
+Animal X8 is more dog than cat, barking and growling but not hissing or neighing.
+
+All of these interpretations match the input data received and the expected
+output given the percentage of dog and cat the input provided. This is better than
+a pure symbols approach, because we have probabilistic outputs rather than a definite
+yes/no. This way, ambiguity in inputs can be revealed in the outputs, rather than
+an abstraction of yes/no that makes it seem like the decision was obvious.
+Probability reveals the amount of information we have and its ability to inform
+our decisions.

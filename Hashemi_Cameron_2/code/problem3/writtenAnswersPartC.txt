@@ -1,0 +1,14 @@
+Problem Set 2, Problem 3
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part C
+------
+
+Given a larger hypothesis space, I required more trials n in order to win the game.
+This is predicted by the PAC theorem. As my hypothesis space gets bigger, my probability
+of error increases (as seen by my increased mistakes with a larger hypothesis space),
+and the number of trials needed to get the answer increases.

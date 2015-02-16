@@ -1,0 +1,12 @@
+% file:  writtenAnswersPartC.txt
+%
+% Author:  Your Name
+% Collaborators:  Name 1, Name 2
+
+
+% Problem 2 (C)
+%
+% Was the single-layer perceptron able to learn the XOR function? Explain why or why not. %How does this compare to the behavior of the perceptron used to learn the OR function?
+
+The single layer perceptron was not able to learn the XOR function because there isn't a straight-line decision boundary that can account
+for the correct outputs.

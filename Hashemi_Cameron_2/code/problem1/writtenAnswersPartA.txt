@@ -1,0 +1,18 @@
+Problem Set 2, Problem 1
+========================
+
+Author: Cameron Hashemi
+Collaborators:
+
+
+Part A
+------
+
+In proving his theorem, Gold assumes that people face adverserial learning
+and that they only see positive examples. The first assumption seems counter to how
+language is actually learned - we often communicate to cooperate and mutually benefit
+each other rather than oppose and trick each other. The second assumption is more accurate,
+as evidenced by experimental data - people are corrected on their grammar much less than not.
+Even still, when "strictly learning" a language (past elementary school), people are often corrected on their
+mistakes. This correcting is what allows them to "learn" the language. These differences between assumptions and
+reality depend upon the definition of learning a grammar.

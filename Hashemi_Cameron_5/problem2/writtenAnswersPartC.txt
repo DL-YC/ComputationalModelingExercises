@@ -1,0 +1,14 @@
+Problem Set 5, Question 2, Part C
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The MSE for both the training and test data decreases drastically from degree
+0 to degree 2. From there, the MSE for the training set decreases as the degree
+approaches 8. The MSE for the test data, however, increases as the degree approaches
+8. We shouldn't always use a learning algorithm that gives the best results on
+the training set, because this may be overfitted to the training data. Algorithms
+that provide a bit more variance may encapsulate novel stimuli because of noise or
+unforseen factors.

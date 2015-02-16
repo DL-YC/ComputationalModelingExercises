@@ -1,0 +1,16 @@
+Problem Set 5, Question 2, Part A
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+I think the 3th degree polynomial best captures the data. It isn't as biased
+by the training data as the higher degree polynomials, allowing for some variance.
+The 4th degree polynomial is another good candidate for me, but 
+I'm assuming that the output increases as the input increases, and the downward
+tail of the 4th degree polynomial suggests some periodicity in the function,
+via a decrease in the output as the input increases. If there was more data,
+I might choose the 4th degree instead, but I think the best polynomial
+is one that fits the data with some variance allowed, because I know there
+has been noise introduced to the original function. Without this noise,
+I would choose a higher degree polynomial, perhaps 6 or 7.

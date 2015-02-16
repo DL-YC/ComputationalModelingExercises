@@ -1,0 +1,15 @@
+Problem Set 3, Question 5, Part B
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The prototype model says that stimulus 1 is 0.99% likely to be a member of Category A than Category B.
+The prototype model says that stimulus 2 is 0.99% likely to be a member of Category A than Category B.
+The prototype model says that stimulus 3 is 0.99% likely to be a member of Category A than Category B.
+The prototype model says that stimulus 4 is 99.01% likely to be a member of Category A than Category B.
+The prototype model says that stimulus 5 is 99.01% likely to be a member of Category A than Category B.
+The prototype model says that stimulus 6 is 99.01% likely to be a member of Category A than Category B.
+
+The categorization is completely in-line with the actual categories of the exemplars.

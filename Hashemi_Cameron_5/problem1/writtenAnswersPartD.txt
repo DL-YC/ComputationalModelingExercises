@@ -1,0 +1,15 @@
+Problem Set 5, Question 1, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+As the number of heads increases, the posterior probability of a biased coin,
+given the number of heads, increases rapidly and levels off around 10 heads.
+This is because the model is getting more and more evidence that supports its hypothesis,
+including all of the heads and especially given none of the tails.
+
+As this sequence of heads becomes more pronounced, the likelihood probability of h1
+increases while the likelihood probability of h0 decreases, bringing the posterior
+probability closer and closer to 1.

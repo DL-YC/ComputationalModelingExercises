@@ -1,0 +1,13 @@
+Problem Set 6, Question 3, Part C
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The only discrepancies between the true clusters and the predicted clusters
+are on the edge cases, i.e. the points that are almost equidistant from one
+cluster and another. There are a variety of reasons why this could happen.
+For example, if a center randomly starts close to one of these edge cases,
+that edge case could influence the location of that center such that it remains
+a part of that cluster over another.

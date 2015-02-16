@@ -1,0 +1,13 @@
+Problem Set 5, Question 4, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+Knowing that the grass is wet increases the probability that the sprinklers were on,
+while hearing that it rained decreases the probability. Production systems
+use deductive logic - i.e. if this, then that. Bayesian systems use inductive logic
+because we don't always know whether something or not has happened, but we can
+estimate a likelihood, and base our decision off of that. Additionally, we have
+interactions between variables under these inductive circumstances. This gives us
+a striking advantage over production systems, when using Bayesian systems.

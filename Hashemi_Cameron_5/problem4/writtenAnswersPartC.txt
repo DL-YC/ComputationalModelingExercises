@@ -1,0 +1,10 @@
+Problem Set 5, Question 4, Part C
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+
+The probability of P(X=1|Y=1,Z=1) is less than P(X=1|Z=1), because given information
+that Y = 1, the evidence of Z on hypothesis X = 1 is nullified. In fact, P(X=1,Y=1,Z=1)
+is equivalent to P(X).
