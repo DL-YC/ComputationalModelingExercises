@@ -1,0 +1,19 @@
+Problem Set 3, Question 3, Part D
+---------------------------------
+
+Name: Cameron Hashemi
+Collaborators: 
+
+There is certainly a difference in how spatial vs hierarchical representations
+lend themselves to our understanding of psychological distance. Since cities
+are literally distanced physically and because we understand this physical distance
+via 2 dimensional maps, a spatial representation lends itself perfectly
+to understanding the distances between cities. Kinships, on the other hand, do 
+not have the same smooth transfer between psychological distance and spatial plotting.
+Instead, their similarities psychologically exist in hierarchical clusters (nuclear family, extended family,
+parental hierarchy), so seeing a dendrogram confirms our intuitions about their
+relationships (e.g. ancestry trees are graphed in a dendrogram). Interestingly enough,
+we are able to see a male/female divide between kinship terms. Since this information
+is not given in the dendrogram, there is a case to be made for the informativeness
+of multiple representations. The fact that gender information can be derived from
+simple similarity ratings is remarkable.
